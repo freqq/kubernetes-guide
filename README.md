@@ -1,2 +1,4 @@
-# kubernetes-guide
-Kubernetes Quick Guide
+# Kubernetes Quick Guide
+
+
+1. Kubectl 
